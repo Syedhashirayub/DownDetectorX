@@ -1,6 +1,6 @@
-# DownDetectorX
+# 🚀 DownDetectorX
 
-# 🚀 Real-Time DevOps Monitoring Project
+# Real-Time DevOps Monitoring Project
 
 A full-fledged monitoring setup using Prometheus, Alertmanager, Blackbox Exporter, Node Exporter, and custom alerting to monitor infrastructure, apps, and services.
 
@@ -26,7 +26,7 @@ A full-fledged monitoring setup using Prometheus, Alertmanager, Blackbox Exporte
   - Disk full
   - Service stopped
 
-![Diagram](./architecture-diagram.png) *(Add this)*
+![Screenshot 2025-06-29 at 10 06 30 AM](https://github.com/user-attachments/assets/4b4c1546-c47e-4688-954b-89838dcaa846)
 
 ---
 
