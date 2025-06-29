@@ -77,12 +77,12 @@ See [`setup-scripts/install.sh`](./setup-scripts/install.sh) *(Write install ste
 ✅ Instance Down  
 ✅ Service Unavailable  
 
-(Screenshots optional)
+![Screenshot 2025-06-29 at 10 09 52 AM](https://github.com/user-attachments/assets/ef9a8086-a0d7-4098-bb04-615c205d90c2)
 
----
+![Screenshot 2025-06-29 at 10 10 09 AM](https://github.com/user-attachments/assets/c2a1e8ae-3c5f-488f-9eb2-48ee06bfeb46)
 
-## 💡 Credits
-Based on a tutorial by [NoteGPT YouTube Channel](https://www.youtube.com/@NoteGPT)
+![Screenshot 2025-06-29 at 10 10 25 AM](https://github.com/user-attachments/assets/c6a23599-e899-467d-b2c0-33403da46ac1)
+
 
 ---
 
